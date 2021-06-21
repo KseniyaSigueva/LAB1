@@ -1,0 +1,48 @@
+C:\Users\пользователь\Desktop\ЛР1\bin\Debug\net5.0\ЛР1.exe
+C:\Users\пользователь\Desktop\ЛР1\bin\Debug\net5.0\ЛР1.deps.json
+C:\Users\пользователь\Desktop\ЛР1\bin\Debug\net5.0\ЛР1.runtimeconfig.json
+C:\Users\пользователь\Desktop\ЛР1\bin\Debug\net5.0\ЛР1.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\ЛР1\bin\Debug\net5.0\ЛР1.dll
+C:\Users\пользователь\Desktop\ЛР1\bin\Debug\net5.0\ref\ЛР1.dll
+C:\Users\пользователь\Desktop\ЛР1\bin\Debug\net5.0\ЛР1.pdb
+C:\Users\пользователь\Desktop\ЛР1\obj\Debug\net5.0\ЛР1.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\ЛР1\obj\Debug\net5.0\ЛР1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\ЛР1\obj\Debug\net5.0\ЛР1.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\ЛР1\obj\Debug\net5.0\ЛР1.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\ЛР1\obj\Debug\net5.0\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\ЛР1\obj\Debug\net5.0\ЛР1.dll
+C:\Users\пользователь\Desktop\ЛР1\obj\Debug\net5.0\ref\ЛР1.dll
+C:\Users\пользователь\Desktop\ЛР1\obj\Debug\net5.0\ЛР1.pdb
+C:\Users\пользователь\Desktop\ЛР1\obj\Debug\net5.0\ЛР1.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\bin\Debug\net5.0\ЛР1.exe
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\bin\Debug\net5.0\ЛР1.deps.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\bin\Debug\net5.0\ЛР1.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\bin\Debug\net5.0\ЛР1.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\bin\Debug\net5.0\ЛР1.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\bin\Debug\net5.0\ref\ЛР1.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\bin\Debug\net5.0\ЛР1.pdb
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\obj\Debug\net5.0\ЛР1.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\obj\Debug\net5.0\ЛР1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\obj\Debug\net5.0\ЛР1.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\obj\Debug\net5.0\ЛР1.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\obj\Debug\net5.0\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\obj\Debug\net5.0\ЛР1.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\obj\Debug\net5.0\ref\ЛР1.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\obj\Debug\net5.0\ЛР1.pdb
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_клиент\obj\Debug\net5.0\ЛР1.genruntimeconfig.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\bin\Debug\net5.0\ЛР1.exe
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\bin\Debug\net5.0\ЛР1.deps.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\bin\Debug\net5.0\ЛР1.runtimeconfig.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\bin\Debug\net5.0\ЛР1.runtimeconfig.dev.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\bin\Debug\net5.0\ЛР1.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\bin\Debug\net5.0\ref\ЛР1.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\bin\Debug\net5.0\ЛР1.pdb
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\obj\Debug\net5.0\ЛР1.csprojAssemblyReference.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\obj\Debug\net5.0\ЛР1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\obj\Debug\net5.0\ЛР1.AssemblyInfoInputs.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\obj\Debug\net5.0\ЛР1.AssemblyInfo.cs
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\obj\Debug\net5.0\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\obj\Debug\net5.0\ЛР1.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\obj\Debug\net5.0\ref\ЛР1.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\obj\Debug\net5.0\ЛР1.pdb
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_клиент\obj\Debug\net5.0\ЛР1.genruntimeconfig.cache

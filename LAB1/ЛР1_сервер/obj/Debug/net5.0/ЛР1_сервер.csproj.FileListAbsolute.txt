@@ -1,0 +1,48 @@
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.exe
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.deps.json
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.runtimeconfig.json
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.dll
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ref\ЛР1_сервер.dll
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.pdb
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.dll
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ref\ЛР1_сервер.dll
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.pdb
+C:\Users\пользователь\Desktop\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.exe
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.deps.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ref\ЛР1_сервер.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.pdb
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ref\ЛР1_сервер.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.pdb
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР1\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.genruntimeconfig.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.exe
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.deps.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.runtimeconfig.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.runtimeconfig.dev.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\bin\Debug\net5.0\ref\ЛР1_сервер.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\bin\Debug\net5.0\ЛР1_сервер.pdb
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.csprojAssemblyReference.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.AssemblyInfoInputs.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.AssemblyInfo.cs
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.csproj.CoreCompileInputs.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\obj\Debug\net5.0\ref\ЛР1_сервер.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.pdb
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР1 +\ЛР1_сервер\obj\Debug\net5.0\ЛР1_сервер.genruntimeconfig.cache
